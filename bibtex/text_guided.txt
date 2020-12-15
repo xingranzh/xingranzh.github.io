@@ -1,7 +1,0 @@
-@inproceedings{zhou2019text,
-  title={Text Guided Person Image Synthesis},
-  author={Zhou, Xingran and Huang, Siyu and Li, Bin and Li, Yingming and Li, Jiachen and Zhang, Zhongfei},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  pages={3663--3672},
-  year={2019}
-}
